@@ -1,0 +1,12 @@
+C:\Users\Mateo\Desktop\University\Modules\PROG3second semester\PoePart1\PoePart1\bin\Debug\PoePart1.exe.config
+C:\Users\Mateo\Desktop\University\Modules\PROG3second semester\PoePart1\PoePart1\bin\Debug\PoePart1.exe
+C:\Users\Mateo\Desktop\University\Modules\PROG3second semester\PoePart1\PoePart1\bin\Debug\PoePart1.pdb
+C:\Users\Mateo\Desktop\University\Modules\PROG3second semester\PoePart1\PoePart1\obj\Debug\PoePart1.csproj.AssemblyReference.cache
+C:\Users\Mateo\Desktop\University\Modules\PROG3second semester\PoePart1\PoePart1\obj\Debug\PoePart1.MainMenuForm.resources
+C:\Users\Mateo\Desktop\University\Modules\PROG3second semester\PoePart1\PoePart1\obj\Debug\PoePart1.Properties.Resources.resources
+C:\Users\Mateo\Desktop\University\Modules\PROG3second semester\PoePart1\PoePart1\obj\Debug\PoePart1.csproj.GenerateResource.cache
+C:\Users\Mateo\Desktop\University\Modules\PROG3second semester\PoePart1\PoePart1\obj\Debug\PoePart1.csproj.CoreCompileInputs.cache
+C:\Users\Mateo\Desktop\University\Modules\PROG3second semester\PoePart1\PoePart1\obj\Debug\PoePart1.exe
+C:\Users\Mateo\Desktop\University\Modules\PROG3second semester\PoePart1\PoePart1\obj\Debug\PoePart1.pdb
+C:\Users\Mateo\Desktop\University\Modules\PROG3second semester\PoePart1\PoePart1\obj\Debug\PoePart1.ReportIssuesForm.resources
+C:\Users\Mateo\Desktop\University\Modules\PROG3second semester\PoePart1\PoePart1\obj\Debug\PoePart1.ReviewForm.resources
